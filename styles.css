@@ -1,0 +1,12 @@
+.tire {
+	outline: solid black 1px;
+	height: 40px;
+}
+
+button{
+	background: url(index.jpg); 
+}
+
+.author{
+	font-size: 1.3rem;
+}
